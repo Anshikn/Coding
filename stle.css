@@ -169,43 +169,5 @@ span{
   .wrapper .carousel{
     grid-auto-columns: 100%;
   }
-  .pr{
-    font-size: 60px;
-    text-align: center;
-    margin-top: 30px;
-    letter-spacing: 9px;
-    color: red;
-  
-  }
-  .h1a{  
-    font-size: 40px ; 
-    margin-left: 50px;
-  }
-  .main2{
-    width: 320px;
-    overflow: hidden;
-    padding-bottom: 10px;
-  
-  }
-  .container2{
-    display: flex;
-    justify-content: center;
-    margin-top: 50px;
-    margin-bottom: 30px;
-    margin-left: 50px;
 
-  }
-  .h1b{
-    margin-left: 50px;
-    letter-spacing: 8px;
-    font-size: 60px;
-    color: #CE1212;
-  }
-  .h2c{
-    padding-top: 15px;
-    padding-bottom: 5px;
-    color: #CE1212;
-    font-size: 40px;
-  }
-  
 }
